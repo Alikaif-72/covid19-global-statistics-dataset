@@ -99,6 +99,36 @@ covid19-global-dataset/
 
 ---
 
+## 🧮 Case Fatality Rate (CFR) Analysis
+
+To better understand the severity of COVID-19 across countries, a new feature called **Case Fatality Rate (CFR)** was created.
+
+### 📌 Formula Used:
+
+CFR = (Total Deaths / Total Cases) × 100
+
+### 🎯 Purpose of CFR
+
+- Measures the percentage of confirmed cases that resulted in death.
+- Helps compare the severity of COVID-19 across countries.
+- Provides deeper insight beyond absolute case and death counts.
+
+### 📊 Why CFR is Important?
+
+While total cases indicate spread and total deaths show impact, CFR reflects healthcare effectiveness and response efficiency in different regions.
+
+Higher CFR may indicate:
+- Weaker healthcare systems
+- Delayed detection
+- Under-testing
+
+Lower CFR may indicate:
+- Better medical infrastructure
+- Effective early intervention
+- High testing rates
+
+This feature adds analytical depth and improves comparative analysis between countries.
+
 ## 🧠 Key Insights
 
 - Absolute case numbers are strongly influenced by population size.
