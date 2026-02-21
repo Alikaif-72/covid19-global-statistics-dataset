@@ -78,6 +78,17 @@ This metric helps evaluate the severity of COVID-19 impact in different countrie
 - Testing levels influence detected cases
 
 ---
+covid19-global-dataset/
+│
+├── images/
+│   ├── correlation_heatmap.png
+│   ├── top5_total_cases.png
+│   └── cases_per_million_histogram.png
+│
+├── covid19_global_dataset.ipynb
+└── README.md
+
+---
 
 ## 📈 Visualizations Used
 
