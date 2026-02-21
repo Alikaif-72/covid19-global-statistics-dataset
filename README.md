@@ -1,4 +1,4 @@
-# 📊 COVID-19 Global Data Analysis (2026)
+# 📊 COVID-19 Global Data Analysis (2026) with 'EDA'-
 
 ## 📌 Project Description
 
